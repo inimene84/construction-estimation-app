@@ -1,0 +1,230 @@
+{
+  "en": {
+    "header": {
+      "title": "Construction Estimator",
+      "subtitle": "AI-powered cost estimation using DDC database",
+      "projectId": "Project ID",
+      "enterProjectId": "Enter project ID..."
+    },
+    "tabs": {
+      "search": "Search",
+      "estimate": "Estimate",
+      "history": "History"
+    },
+    "search": {
+      "title": "Search Work Items",
+      "query": "Search Query",
+      "queryPlaceholder": "e.g., interior wall plasterboard, concrete foundation...",
+      "language": "Language",
+      "country": "Country",
+      "searchButton": "Search",
+      "searching": "Searching...",
+      "results": "Results",
+      "similarity": "Similarity",
+      "category": "Category",
+      "laborHours": "Labor Hours",
+      "estimatedCost": "Estimated Cost",
+      "phase": "Phase",
+      "noResults": "No results found. Try different keywords!"
+    },
+    "estimate": {
+      "title": "Generate Cost Estimate",
+      "language": "Language",
+      "elements": "Construction Elements",
+      "elementName": "Element Name",
+      "elementNamePlaceholder": "e.g., Interior Wall",
+      "quantity": "Quantity",
+      "description": "Description",
+      "descriptionPlaceholder": "e.g., interior wall with plasterboard 13mm",
+      "addElement": "+ Add Element",
+      "generateEstimate": "Generate Estimate",
+      "generating": "Calculating...",
+      "costBreakdown": "Cost Breakdown",
+      "labor": "Labor",
+      "materials": "Materials",
+      "equipment": "Equipment",
+      "total": "Total",
+      "byPhase": "By Phase",
+      "noElements": "Please add at least one element",
+      "noProjectId": "Please enter a project ID"
+    },
+    "history": {
+      "title": "Estimation History",
+      "noProjectId": "Enter a project ID to view estimation history",
+      "refresh": "Refresh",
+      "loading": "Loading...",
+      "date": "Date",
+      "language": "Language",
+      "costSummary": "Cost Summary",
+      "noEstimates": "No estimations yet for this project"
+    },
+    "footer": {
+      "powered": "Powered by OpenConstructionEstimate (DDC) • Qdrant Vector Search"
+    },
+    "countries": {
+      "EE": "Estonia",
+      "DE": "Germany",
+      "FI": "Finland",
+      "SE": "Sweden",
+      "LV": "Latvia",
+      "LT": "Lithuania"
+    },
+    "languages": {
+      "en": "English",
+      "de": "German",
+      "et": "Estonian"
+    }
+  },
+  "de": {
+    "header": {
+      "title": "Baukostenrechner",
+      "subtitle": "KI-gestützte Kostenschätzung mit DDC-Datenbank",
+      "projectId": "Projekt-ID",
+      "enterProjectId": "Projekt-ID eingeben..."
+    },
+    "tabs": {
+      "search": "Suche",
+      "estimate": "Schätzung",
+      "history": "Verlauf"
+    },
+    "search": {
+      "title": "Bauleistungen suchen",
+      "query": "Suchbegriff",
+      "queryPlaceholder": "z.B. Innenwand Gipskarton, Betonplattform...",
+      "language": "Sprache",
+      "country": "Land",
+      "searchButton": "Suche",
+      "searching": "Wird gesucht...",
+      "results": "Ergebnisse",
+      "similarity": "Ähnlichkeit",
+      "category": "Kategorie",
+      "laborHours": "Arbeitsstunden",
+      "estimatedCost": "Geschätzte Kosten",
+      "phase": "Phase",
+      "noResults": "Keine Ergebnisse gefunden. Versuchen Sie andere Suchbegriffe!"
+    },
+    "estimate": {
+      "title": "Kostenvoranschlag generieren",
+      "language": "Sprache",
+      "elements": "Bauelemente",
+      "elementName": "Elementname",
+      "elementNamePlaceholder": "z.B. Innenwand",
+      "quantity": "Menge",
+      "description": "Beschreibung",
+      "descriptionPlaceholder": "z.B. Innenwand mit Gipskarton 13mm",
+      "addElement": "+ Element hinzufügen",
+      "generateEstimate": "Voranschlag generieren",
+      "generating": "Wird berechnet...",
+      "costBreakdown": "Kostenaufstellung",
+      "labor": "Arbeit",
+      "materials": "Materialien",
+      "equipment": "Ausrüstung",
+      "total": "Summe",
+      "byPhase": "Nach Phase",
+      "noElements": "Bitte fügen Sie mindestens ein Element hinzu",
+      "noProjectId": "Bitte geben Sie eine Projekt-ID ein"
+    },
+    "history": {
+      "title": "Schätzungsverlauf",
+      "noProjectId": "Geben Sie eine Projekt-ID ein, um den Schätzungsverlauf anzuzeigen",
+      "refresh": "Aktualisieren",
+      "loading": "Wird geladen...",
+      "date": "Datum",
+      "language": "Sprache",
+      "costSummary": "Kostenzusammenfassung",
+      "noEstimates": "Noch keine Schätzungen für dieses Projekt"
+    },
+    "footer": {
+      "powered": "Basierend auf OpenConstructionEstimate (DDC) • Qdrant Vector Search"
+    },
+    "countries": {
+      "EE": "Estland",
+      "DE": "Deutschland",
+      "FI": "Finnland",
+      "SE": "Schweden",
+      "LV": "Lettland",
+      "LT": "Litauen"
+    },
+    "languages": {
+      "en": "English",
+      "de": "Deutsch",
+      "et": "Eesti"
+    }
+  },
+  "et": {
+    "header": {
+      "title": "Ehituse kulude kalkulaator",
+      "subtitle": "AI-toega kulude hindamine DDC andmebaasi abil",
+      "projectId": "Projekti ID",
+      "enterProjectId": "Sisestage projekti ID..."
+    },
+    "tabs": {
+      "search": "Otsing",
+      "estimate": "Hinnang",
+      "history": "Ajalugu"
+    },
+    "search": {
+      "title": "Ehitustööde otsing",
+      "query": "Otsinguavaldis",
+      "queryPlaceholder": "nt. sisesein krohvitud, betooniplatvorm...",
+      "language": "Keel",
+      "country": "Riik",
+      "searchButton": "Otsi",
+      "searching": "Otsin...",
+      "results": "Tulemused",
+      "similarity": "Sarnasus",
+      "category": "Kategooria",
+      "laborHours": "Töötunnid",
+      "estimatedCost": "Hinnanguline kulu",
+      "phase": "Etapp",
+      "noResults": "Tulemused ei leitud. Proovige teisi otsingusõnu!"
+    },
+    "estimate": {
+      "title": "Kulude hinnangu genereerimine",
+      "language": "Keel",
+      "elements": "Ehituskonstruktsioonid",
+      "elementName": "Elemendi nimi",
+      "elementNamePlaceholder": "nt. sisesein",
+      "quantity": "Kogus",
+      "description": "Kirjeldus",
+      "descriptionPlaceholder": "nt. sisesein krohvitud 13mm krohvist",
+      "addElement": "+ Lisa element",
+      "generateEstimate": "Genereeri hinnang",
+      "generating": "Arvutan...",
+      "costBreakdown": "Kulude jaotus",
+      "labor": "Tööjõud",
+      "materials": "Materjalid",
+      "equipment": "Seadmed",
+      "total": "Kokku",
+      "byPhase": "Etapiti",
+      "noElements": "Lisage vähemalt üks element",
+      "noProjectId": "Sisestage projekti ID"
+    },
+    "history": {
+      "title": "Hinnangu ajalugu",
+      "noProjectId": "Sisestage projekti ID, et vaadata hinnangu ajalugu",
+      "refresh": "Värskenda",
+      "loading": "Laadin...",
+      "date": "Kuupäev",
+      "language": "Keel",
+      "costSummary": "Kulude kokkuvõte",
+      "noEstimates": "Sel projektil hinanguid veel pole"
+    },
+    "footer": {
+      "powered": "Toitab OpenConstructionEstimate (DDC) • Qdrant Vector Search"
+    },
+    "countries": {
+      "EE": "Eesti",
+      "DE": "Saksamaa",
+      "FI": "Soome",
+      "SE": "Rootsi",
+      "LV": "Läti",
+      "LT": "Leedu"
+    },
+    "languages": {
+      "en": "English",
+      "de": "Deutsch",
+      "et": "Eesti"
+    }
+  }
+}
